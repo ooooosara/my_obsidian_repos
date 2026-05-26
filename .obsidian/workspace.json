@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "就活/逆質問まとめ.md",
+                "file": "就活/面接について.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "逆質問まとめ"
+              "title": "面接について"
             }
           }
         ]
@@ -185,13 +185,11 @@
               "title": "git-view"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,9 +206,12 @@
   },
   "active": "b396b37a1a1b4913",
   "lastOpenFiles": [
+    "AI/アイデア.md",
+    "アプリアイデア/アニメストリーミングサービス.md",
+    "就活/面接都合いい会社.md",
+    "就活/逆質問まとめ.md",
     "就活/説明会/岡崎信用金庫.md",
     "就活/説明会/アイレット.md",
-    "AI/アイデア.md",
     "無題のファイル.canvas",
     "就活/説明会/CTCテクノロジー.md",
     "就活/説明会/日本システム開発.md",
@@ -220,7 +221,6 @@
     "2026-05-26.md",
     "2026-05-25.md",
     "学習/ankiについて.md",
-    "アプリアイデア/アニメストリーミングサービス.md",
     "学習",
     "アプリアイデア/無題のフォルダ",
     "アプリアイデア",
@@ -228,11 +228,9 @@
     "AI/課題.md",
     "就活/エントリーシート管理.md",
     "AI",
-    "就活/逆質問まとめ.md",
     "Excalidraw/Drawing 2026-05-25 16.00.55.excalidraw.md",
     "Excalidraw",
     "就活/面接について.md",
-    "就活/面接都合いい会社.md",
     "就活"
   ]
 }
