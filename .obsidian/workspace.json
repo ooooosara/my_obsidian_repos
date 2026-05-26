@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "就活/説明会/岡崎信用金庫.md",
+                "file": "就活/逆質問まとめ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "岡崎信用金庫"
+              "title": "逆質問まとめ"
             }
           }
         ]
@@ -181,8 +181,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -208,8 +208,8 @@
   },
   "active": "b396b37a1a1b4913",
   "lastOpenFiles": [
-    "就活/説明会/アイレット.md",
     "就活/説明会/岡崎信用金庫.md",
+    "就活/説明会/アイレット.md",
     "AI/アイデア.md",
     "無題のファイル.canvas",
     "就活/説明会/CTCテクノロジー.md",
